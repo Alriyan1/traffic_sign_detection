@@ -267,10 +267,6 @@ pip install opencv-python numpy tensorflow keras
 - [ ] Add GUI interface
 - [ ] Support for multiple camera inputs
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - Traffic sign dataset contributors
@@ -292,5 +288,6 @@ Try these traffic signs with your camera:
 **Pro Tip**: Print traffic sign images and hold them in front of the camera for testing!
 
 ---
+
 
 *Made with ❤️ for computer vision enthusiasts* 
